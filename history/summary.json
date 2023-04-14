@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 822,
-    "timeDay": 822,
-    "timeWeek": 822,
-    "timeMonth": 822,
-    "timeYear": 822,
+    "time": 697,
+    "timeDay": 697,
+    "timeWeek": 697,
+    "timeMonth": 697,
+    "timeYear": 697,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://d.wsee.cf",
     "icon": "https://icons.duckduckgo.com/ip3/d.wsee.cf.ico",
     "slug": "d",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 467,
-    "timeWeek": 467,
-    "timeMonth": 467,
-    "timeYear": 467,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
+    "dailyMinutesDown": {
+      "2023-04-14": 0
+    }
   },
   {
     "name": "探针-nezha",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 929,
-    "timeDay": 929,
-    "timeWeek": 929,
-    "timeMonth": 929,
-    "timeYear": 929,
+    "time": 866,
+    "timeDay": 866,
+    "timeWeek": 866,
+    "timeMonth": 866,
+    "timeYear": 866,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 990,
-    "timeDay": 990,
-    "timeWeek": 990,
-    "timeMonth": 990,
-    "timeYear": 990,
+    "time": 886,
+    "timeDay": 886,
+    "timeWeek": 886,
+    "timeMonth": 886,
+    "timeYear": 886,
     "dailyMinutesDown": {}
   }
 ]
