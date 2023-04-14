@@ -39,11 +39,9 @@ status-website:
   introMessage: 
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: 网盘
-      href: https://pan.wtz1.ml
       
 i18n:
   footer: uptime
