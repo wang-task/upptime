@@ -22,19 +22,19 @@
     "url": "https://nz.wsee.cf",
     "icon": "https://icons.duckduckgo.com/ip3/nz.wsee.cf.ico",
     "slug": "nezha",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 933,
-    "timeDay": 933,
-    "timeWeek": 933,
-    "timeMonth": 933,
-    "timeYear": 933,
+    "status": "up",
+    "uptime": "89.62%",
+    "uptimeDay": "89.62%",
+    "uptimeWeek": "89.62%",
+    "uptimeMonth": "89.62%",
+    "uptimeYear": "89.62%",
+    "time": 1310,
+    "timeDay": 1310,
+    "timeWeek": 1310,
+    "timeMonth": 1310,
+    "timeYear": 1310,
     "dailyMinutesDown": {
-      "2023-04-14": 0
+      "2023-04-14": 87
     }
   },
   {
