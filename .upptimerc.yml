@@ -3,17 +3,30 @@ owner: wang-task # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: 网盘-alist
+  - name: 网盘_alist
     url: https://pan.wtz1.ml
-  - name: 短链-d
+  - name: 探针_nezha
+    url: https://nz.wsee.cf
+  - name: 青龙面板_ql
+    url: https://ql.wtz1.ml
+  - name: 博客_blog
+    url: https://t.wtz1.ml
+  - name: 短链_d
     url: https://d.wsee.cf
     expectedStatusCodes:
       - 404
     __dangerous__body_down_if_text_missing: "API server is running"
-  - name: 探针-nezha
-    url: https://nz.wsee.cf
-  - name: 青龙面板-ql
-    url: https://ql.wtz1.ml
+  - name: 网易云音乐_wyyapi
+    url: https://163music.wang-admin.repl.co
+  - name: 离线下载_aria2-UI
+    url: https://pan.wang-admin.repl.co
+  - name: 在线人数统计_time-counter
+    url: https://time-counter.wtz1.ml
+  - name: 网站在线状态_uptime-kuma
+    url: https://uptime-kuma.wang-admin.repl.co
+  - name: 网站在线状态_upptime
+    url: https://wang-task.github.io/upptime
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,7 +34,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Uptime
   introTitle: "**Upptime** "
   introMessage: 
   navbar:
@@ -33,7 +46,7 @@ status-website:
       href: https://pan.wtz1.ml
       
 i18n:
-  footer: upptime
+  footer: uptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
