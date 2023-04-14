@@ -7,8 +7,7 @@ sites:
     url: https://pan.wtz1.ml
   - name: 短链-d
     url: https://d.wsee.cf
-    expectedStatusCodes:
-      - 404
+    __dangerous__body_down_if_text_missing: "API server is running"
   - name: 探针-nezha
     url: https://nz.wsee.cf
   - name: 青龙面板-ql
