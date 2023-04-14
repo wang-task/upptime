@@ -31,6 +31,9 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: 网盘
       href: https://pan.wtz1.ml
+      
+i18n:
+  footer: upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
