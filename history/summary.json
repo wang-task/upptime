@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/d.wsee.cf.ico",
     "slug": "d",
     "status": "up",
-    "uptime": "56.75%",
-    "uptimeDay": "56.75%",
-    "uptimeWeek": "56.75%",
-    "uptimeMonth": "56.75%",
-    "uptimeYear": "56.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 450,
     "timeDay": 450,
     "timeWeek": 450,
     "timeMonth": 450,
     "timeYear": 450,
-    "dailyMinutesDown": {
-      "2023-04-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "探针-nezha",
