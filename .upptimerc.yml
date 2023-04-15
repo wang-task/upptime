@@ -16,6 +16,8 @@ sites:
     expectedStatusCodes:
       - 404
     __dangerous__body_down_if_text_missing: "API server is running"
+  - name: 日志_logs
+    url: https://wang-task.github.io/logs
   - name: 网易云音乐_wyyapi
     url: https://163music.wang-admin.repl.co
   - name: 离线下载_aria2-UI
