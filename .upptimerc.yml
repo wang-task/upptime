@@ -16,6 +16,10 @@ sites:
     expectedStatusCodes:
       - 404
     __dangerous__body_down_if_text_missing: "API server is running"
+  - name: Chatgpt-web_ui
+    url: https://gpt.wtz1.ml
+  - name: Chatgpt-web_api
+    url: https://chat-wceshi.b4a.run
   - name: 日志_logs
     url: https://wang-task.github.io/logs
   - name: 网易云音乐_wyyapi
