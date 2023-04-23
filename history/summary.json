@@ -115,19 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat-wceshi.b4a.run.ico",
     "slug": "chatgpt-web-api",
     "status": "up",
-    "uptime": "4.31%",
-    "uptimeDay": "4.31%",
-    "uptimeWeek": "4.31%",
-    "uptimeMonth": "4.31%",
-    "uptimeYear": "4.31%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 241,
     "timeDay": 241,
     "timeWeek": 241,
     "timeMonth": 241,
     "timeYear": 241,
-    "dailyMinutesDown": {
-      "2023-04-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "日志_logs",
