@@ -20,6 +20,9 @@ sites:
     url: https://gpt.wtz1.ml
   - name: Chatgpt-web_api
     url: https://chat-wceshi.b4a.run
+    expectedStatusCodes:
+      - 404
+    __dangerous__body_down_if_text_missing: "Cannot GET /"
   - name: 日志_logs
     url: https://wang-task.github.io/logs
   - name: 网易云音乐_wyyapi
