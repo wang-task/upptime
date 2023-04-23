@@ -60,19 +60,19 @@
     "url": "https://t.wtz1.ml",
     "icon": "https://icons.duckduckgo.com/ip3/t.wtz1.ml.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2040,
-    "timeDay": 6123,
-    "timeWeek": 2630,
-    "timeMonth": 2040,
-    "timeYear": 2040,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1968,
+    "timeDay": 5032,
+    "timeWeek": 2467,
+    "timeMonth": 1968,
+    "timeYear": 1968,
     "dailyMinutesDown": {
-      "2023-04-23": 0
+      "2023-04-23": 5
     }
   },
   {
