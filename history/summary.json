@@ -168,19 +168,19 @@
     "url": "https://pan.wang-admin.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/pan.wang-admin.repl.co.ico",
     "slug": "aria2-ui",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1078,
-    "timeDay": 397,
-    "timeWeek": 1394,
-    "timeMonth": 1078,
-    "timeYear": 1078,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1044,
+    "timeDay": 388,
+    "timeWeek": 1325,
+    "timeMonth": 1044,
+    "timeYear": 1044,
     "dailyMinutesDown": {
-      "2023-04-23": 0
+      "2023-04-23": 5
     }
   },
   {
