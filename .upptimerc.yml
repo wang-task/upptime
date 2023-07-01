@@ -8,7 +8,7 @@ sites:
   - name: 探针_nezha
     url: https://nz.wsee.cf
   - name: 博客_blog
-    url: https://t.wtz1.ml
+    url: http://t.wtz1.ml
     __dangerous__disable_verify_peer: true
   - name: 短链_d
     url: https://d.wsee.cf
