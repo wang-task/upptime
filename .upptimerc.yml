@@ -7,10 +7,9 @@ sites:
     url: https://pan.wtz1.ml
   - name: 探针_nezha
     url: https://nz.wsee.cf
-  - name: 青龙面板_ql
-    url: https://ql.wtz1.ml
   - name: 博客_blog
     url: https://t.wtz1.ml
+    __dangerous__disable_verify_peertrue
   - name: 短链_d
     url: https://d.wsee.cf
     expectedStatusCodes:
@@ -33,8 +32,6 @@ sites:
     url: https://163music.wang-admin.repl.co
   - name: 离线下载_aria2-UI
     url: https://pan.wang-admin.repl.co
-  - name: poe-replit-反代_poe
-    url: https://poe.wang5.repl.co
   - name: 在线人数统计_time-counter
     url: https://time-counter.wtz1.ml
   - name: 网站在线状态_uptime-kuma
