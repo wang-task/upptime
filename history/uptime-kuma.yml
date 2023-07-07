@@ -1,7 +1,7 @@
 url: https://uptime-kuma.wang-admin.repl.co
-status: up
-code: 200
-responseTime: 1923
-lastUpdated: 2023-07-07T14:58:50.367Z
+status: down
+code: 502
+responseTime: 10272
+lastUpdated: 2023-07-07T20:39:16.769Z
 startTime: Fri Apr 14 2023 04:58:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
