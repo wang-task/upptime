@@ -12,9 +12,6 @@ sites:
     __dangerous__disable_verify_peer: true
   - name: 短链_d
     url: https://d.wsee.cf
-    expectedStatusCodes:
-      - 404
-    __dangerous__body_down_if_text_missing: "API server is running"
   - name: Chatgpt-web-share
     url: https://chat.wsee.cf
   - name: Chatgpt-next
