@@ -27,12 +27,8 @@ sites:
     url: https://wang-task.github.io/logs
   - name: 网易云音乐_wyyapi
     url: https://163music.wang-admin.repl.co
-  - name: 离线下载_aria2-UI
-    url: https://pan.wang-admin.repl.co
   - name: 在线人数统计_time-counter
-    url: https://time-counter.wtz1.ml
-  - name: 网站在线状态_uptime-kuma
-    url: https://uptime-kuma.wang-admin.repl.co
+    url: https://time-counter.wsee.eu.org
   - name: 网站在线状态_upptime
     url: https://wang-task.github.io/upptime
     
