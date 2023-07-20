@@ -15,9 +15,9 @@ sites:
   - name: Chatgpt-web-share
     url: https://chat.wsee.cf
   - name: Chatgpt-next
-    url: https://gpt.wtz1.ml
+    url: https://gpt.old.wsee.eu.org
   - name: Chatgpt-web_ui
-    url: https://gpt-old.wtz1.ml
+    url: https://gpt-old.old.wsee.eu.org
   - name: Chatgpt-web_api
     url: https://chat-wceshi.b4a.run
     expectedStatusCodes:
