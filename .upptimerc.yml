@@ -8,7 +8,7 @@ sites:
   - name: 探针_nezha
     url: https://nz.wsee.cf
   - name: 博客_blog
-    url: http://t.wtz1.ml
+    url: https://t.wsee.eu.org
     __dangerous__disable_verify_peer: true
   - name: 短链_d
     url: https://wsee.cf
@@ -18,11 +18,6 @@ sites:
     url: https://gpt.old.wsee.eu.org
   - name: Chatgpt-web_ui
     url: https://gpt-old.old.wsee.eu.org
-  - name: Chatgpt-web_api
-    url: https://chat-wceshi.b4a.run
-    expectedStatusCodes:
-      - 404
-    __dangerous__body_down_if_text_missing: "Cannot GET /"
   - name: 日志_logs
     url: https://wang-task.github.io/logs
   - name: 网易云音乐_wyyapi
