@@ -4,14 +4,14 @@ repo: upptime # The name of this repository
 
 sites:
   - name: 网盘_alist
-    url: https://pan.wtz1.ml
+    url: https://pan.wsee.eu.org
   - name: 探针_nezha
     url: https://nz.wsee.cf
   - name: 博客_blog
     url: http://t.wtz1.ml
     __dangerous__disable_verify_peer: true
   - name: 短链_d
-    url: https://d.wsee.cf
+    url: https://wsee.cf
   - name: Chatgpt-web-share
     url: https://chat.wsee.cf
   - name: Chatgpt-next
