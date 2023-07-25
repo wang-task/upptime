@@ -1,7 +1,7 @@
 url: https://time-counter.wsee.eu.org
-status: up
-code: 200
-responseTime: 264
-lastUpdated: 2023-07-24T23:12:25.340Z
+status: down
+code: 502
+responseTime: 519
+lastUpdated: 2023-07-25T14:18:23.998Z
 startTime: Fri Apr 14 2023 04:58:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
