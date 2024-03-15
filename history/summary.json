@@ -6,9 +6,9 @@
     "slug": "alist",
     "status": "down",
     "uptime": "96.60%",
-    "uptimeDay": "35.74%",
-    "uptimeWeek": "81.25%",
-    "uptimeMonth": "95.54%",
+    "uptimeDay": "34.83%",
+    "uptimeWeek": "81.12%",
+    "uptimeMonth": "95.51%",
     "uptimeYear": "96.60%",
     "time": 2118,
     "timeDay": 16582,
@@ -16,7 +16,7 @@
     "timeMonth": 7507,
     "timeYear": 2118,
     "dailyMinutesDown": {
-      "2024-03-15": 331,
+      "2024-03-15": 344,
       "2024-03-14": 594,
       "2024-03-12": 585,
       "2024-03-11": 358,
@@ -54,12 +54,12 @@
     "url": "https://nz.wsee.cf",
     "icon": "https://icons.duckduckgo.com/ip3/nz.wsee.cf.ico",
     "slug": "nezha",
-    "status": "up",
-    "uptime": "96.91%",
-    "uptimeDay": "40.04%",
+    "status": "down",
+    "uptime": "96.93%",
+    "uptimeDay": "40.03%",
     "uptimeWeek": "83.26%",
-    "uptimeMonth": "91.90%",
-    "uptimeYear": "96.91%",
+    "uptimeMonth": "91.93%",
+    "uptimeYear": "96.93%",
     "time": 2529,
     "timeDay": 13049,
     "timeWeek": 10375,
@@ -97,7 +97,7 @@
       "2023-07-20": 12,
       "2023-07-02": 6,
       "2023-06-17": 31,
-      "2023-05-27": 106
+      "2023-05-27": 22
     }
   },
   {
@@ -117,7 +117,7 @@
     "timeMonth": 481,
     "timeYear": 1436,
     "dailyMinutesDown": {
-      "2024-03-15": 345,
+      "2024-03-15": 358,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -335,7 +335,7 @@
     "uptime": "97.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.88%",
+    "uptimeMonth": "96.91%",
     "uptimeYear": "97.05%",
     "time": 439,
     "timeDay": 265,
@@ -381,7 +381,7 @@
     "timeMonth": 0,
     "timeYear": 866,
     "dailyMinutesDown": {
-      "2024-03-15": 345,
+      "2024-03-15": 358,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -718,7 +718,7 @@
     "timeMonth": 482,
     "timeYear": 1547,
     "dailyMinutesDown": {
-      "2024-03-15": 345,
+      "2024-03-15": 358,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -846,7 +846,7 @@
     "timeMonth": 0,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2024-03-15": 345,
+      "2024-03-15": 358,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
