@@ -16,7 +16,7 @@
     "timeMonth": 635,
     "timeYear": 2202,
     "dailyMinutesDown": {
-      "2024-07-06": 821,
+      "2024-07-06": 827,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
@@ -157,17 +157,17 @@
     "url": "https://nz.wsee.cf",
     "icon": "https://icons.duckduckgo.com/ip3/nz.wsee.cf.ico",
     "slug": "nezha",
-    "status": "up",
+    "status": "down",
     "uptime": "74.30%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeDay": "0.42%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "1.39%",
     "uptimeYear": "68.36%",
-    "time": 2365,
-    "timeDay": 2665,
-    "timeWeek": 1152,
-    "timeMonth": 874,
-    "timeYear": 2583,
+    "time": 2366,
+    "timeDay": 2186,
+    "timeWeek": 1160,
+    "timeMonth": 886,
+    "timeYear": 2580,
     "dailyMinutesDown": {
       "2024-07-06": 821,
       "2024-07-05": 1440,
@@ -296,7 +296,7 @@
       "2024-02-02": 115,
       "2024-01-30": 7,
       "2023-11-22": 13,
-      "2023-11-21": 168
+      "2023-11-21": 162
     }
   },
   {
@@ -316,7 +316,7 @@
     "timeMonth": 0,
     "timeYear": 1383,
     "dailyMinutesDown": {
-      "2024-07-06": 821,
+      "2024-07-06": 827,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
@@ -610,14 +610,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.28%",
+    "uptimeYear": "1.27%",
     "time": 835,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2024-07-06": 821,
+      "2024-07-06": 827,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
@@ -1060,7 +1060,7 @@
     "timeMonth": 484,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2024-07-06": 821,
+      "2024-07-06": 827,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
@@ -1296,7 +1296,7 @@
     "timeMonth": 0,
     "timeYear": 1152,
     "dailyMinutesDown": {
-      "2024-07-06": 821,
+      "2024-07-06": 827,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
