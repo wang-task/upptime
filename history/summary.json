@@ -16,7 +16,7 @@
     "timeMonth": 20019,
     "timeYear": 5066,
     "dailyMinutesDown": {
-      "2025-07-16": 1202,
+      "2025-07-16": 1226,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 19844,
     "timeYear": 6008,
     "dailyMinutesDown": {
-      "2025-07-16": 1202,
+      "2025-07-16": 1226,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -518,7 +518,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-16": 1202,
+      "2025-07-16": 1227,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -920,7 +920,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-16": 1202,
+      "2025-07-16": 1227,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -1292,19 +1292,19 @@
     "url": "https://gpt.old.wsee.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/gpt.old.wsee.eu.org.ico",
     "slug": "chatgpt-next",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 497,
-    "timeDay": 182,
-    "timeWeek": 252,
-    "timeMonth": 772,
-    "timeYear": 510,
+    "timeDay": 292,
+    "timeWeek": 271,
+    "timeMonth": 760,
+    "timeYear": 509,
     "dailyMinutesDown": {
-      "2025-07-16": 0
+      "2025-07-16": 25
     }
   },
   {
@@ -1312,19 +1312,19 @@
     "url": "https://gpt-old.old.wsee.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/gpt-old.old.wsee.eu.org.ico",
     "slug": "chatgpt-web-ui",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 158,
-    "timeWeek": 281,
-    "timeMonth": 429,
-    "timeYear": 413,
+    "time": 381,
+    "timeDay": 105,
+    "timeWeek": 253,
+    "timeMonth": 417,
+    "timeYear": 412,
     "dailyMinutesDown": {
-      "2025-07-16": 0
+      "2025-07-16": 25
     }
   },
   {
@@ -1362,7 +1362,7 @@
     "timeMonth": 0,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-07-16": 1202,
+      "2025-07-16": 1227,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -1746,7 +1746,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-16": 1202,
+      "2025-07-16": 1227,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
