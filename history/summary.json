@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wsee.eu.org.ico",
     "slug": "alist",
     "status": "down",
-    "uptime": "37.46%",
+    "uptime": "37.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 6354,
-    "timeDay": 19953,
-    "timeWeek": 19882,
-    "timeMonth": 19905,
-    "timeYear": 8580,
+    "time": 6394,
+    "timeDay": 19660,
+    "timeWeek": 19870,
+    "timeMonth": 19893,
+    "timeYear": 8636,
     "dailyMinutesDown": {
-      "2025-09-18": 97,
+      "2025-09-19": 100,
+      "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -379,8 +380,7 @@
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 1440
+      "2024-09-20": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nz.wsee.cf.ico",
     "slug": "nezha",
     "status": "down",
-    "uptime": "69.07%",
+    "uptime": "69.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.41%",
-    "time": 7106,
-    "timeDay": 20063,
-    "timeWeek": 20216,
-    "timeMonth": 20166,
-    "timeYear": 9280,
+    "uptimeYear": "56.14%",
+    "time": 7119,
+    "timeDay": 0,
+    "timeWeek": 20238,
+    "timeMonth": 20185,
+    "timeYear": 9303,
     "dailyMinutesDown": {
-      "2025-09-18": 97,
+      "2025-09-19": 100,
+      "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -570,7 +571,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/t.wsee.eu.org.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "20.01%",
+    "uptime": "19.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -581,7 +582,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-18": 97,
+      "2025-09-19": 100,
+      "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -944,8 +946,7 @@
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 1440
+      "2024-09-20": 1440
     }
   },
   {
@@ -960,10 +961,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 472,
-    "timeDay": 283,
-    "timeWeek": 442,
-    "timeMonth": 543,
-    "timeYear": 460,
+    "timeDay": 580,
+    "timeWeek": 435,
+    "timeMonth": 549,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   },
   {
@@ -972,7 +973,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.wsee.cf.ico",
     "slug": "chatgpt-web-share",
     "status": "down",
-    "uptime": "8.08%",
+    "uptime": "8.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -983,7 +984,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-18": 97,
+      "2025-09-19": 100,
+      "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -1346,8 +1348,7 @@
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 1440
+      "2024-09-20": 1440
     }
   },
   {
@@ -1362,9 +1363,9 @@
     "uptimeMonth": "98.95%",
     "uptimeYear": "99.89%",
     "time": 515,
-    "timeDay": 193,
-    "timeWeek": 996,
-    "timeMonth": 547,
+    "timeDay": 212,
+    "timeWeek": 984,
+    "timeMonth": 545,
     "timeYear": 551,
     "dailyMinutesDown": {
       "2025-09-05": 16,
@@ -1401,9 +1402,9 @@
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.90%",
     "time": 393,
-    "timeDay": 971,
-    "timeWeek": 488,
-    "timeMonth": 490,
+    "timeDay": 372,
+    "timeWeek": 503,
+    "timeMonth": 492,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2025-09-05": 15,
@@ -1440,10 +1441,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 106,
-    "timeWeek": 198,
-    "timeMonth": 174,
-    "timeYear": 141,
+    "timeDay": 311,
+    "timeWeek": 194,
+    "timeMonth": 180,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -1452,7 +1453,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/163music.wang-admin.repl.co.ico",
     "slug": "wyyapi",
     "status": "down",
-    "uptime": "29.62%",
+    "uptime": "29.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1461,9 +1462,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 528,
+    "timeYear": 530,
     "dailyMinutesDown": {
-      "2025-09-18": 97,
+      "2025-09-19": 100,
+      "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -1826,8 +1828,7 @@
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 1440
+      "2024-09-20": 1440
     }
   },
   {
@@ -1836,7 +1837,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/time-counter.wsee.eu.org.ico",
     "slug": "time-counter",
     "status": "down",
-    "uptime": "29.64%",
+    "uptime": "29.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1847,7 +1848,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-18": 98,
+      "2025-09-19": 100,
+      "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -2210,8 +2212,7 @@
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 1440
+      "2024-09-20": 1440
     }
   },
   {
@@ -2226,10 +2227,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 44,
-    "timeWeek": 131,
-    "timeMonth": 108,
-    "timeYear": 80,
+    "timeDay": 263,
+    "timeWeek": 136,
+    "timeMonth": 115,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   }
 ]
