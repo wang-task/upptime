@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.wsee.eu.org.ico",
     "slug": "alist",
     "status": "down",
-    "uptime": "30.88%",
+    "uptime": "30.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 13864,
-    "timeDay": 19776,
-    "timeWeek": 19654,
-    "timeMonth": 19752,
-    "timeYear": 18887,
+    "time": 13904,
+    "timeDay": 19770,
+    "timeWeek": 19690,
+    "timeMonth": 19754,
+    "timeYear": 18943,
     "dailyMinutesDown": {
-      "2026-03-26": 159,
+      "2026-03-27": 161,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -379,8 +380,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nz.wsee.cf.ico",
     "slug": "nezha",
     "status": "down",
-    "uptime": "56.95%",
+    "uptime": "56.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "5.60%",
-    "time": 10871,
+    "uptimeYear": "5.32%",
+    "time": 10903,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 17969,
+    "timeYear": 18063,
     "dailyMinutesDown": {
-      "2026-03-26": 159,
+      "2026-03-27": 161,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -754,7 +755,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/t.wsee.eu.org.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "16.49%",
+    "uptime": "16.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -765,7 +766,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-26": 159,
+      "2026-03-27": 161,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -1128,8 +1130,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   },
   {
@@ -1143,10 +1144,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 459,
-    "timeDay": 480,
-    "timeWeek": 455,
-    "timeMonth": 392,
+    "time": 458,
+    "timeDay": 282,
+    "timeWeek": 437,
+    "timeMonth": 386,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2025-11-18": 180,
@@ -1170,7 +1171,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-26": 159,
+      "2026-03-27": 161,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -1533,8 +1535,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   },
   {
@@ -1548,10 +1549,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 521,
-    "timeDay": 266,
-    "timeWeek": 304,
-    "timeMonth": 300,
+    "time": 522,
+    "timeDay": 522,
+    "timeWeek": 346,
+    "timeMonth": 312,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2025-12-28": 6,
@@ -1602,10 +1603,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 419,
-    "timeDay": 164,
-    "timeWeek": 304,
-    "timeMonth": 281,
-    "timeYear": 397,
+    "timeDay": 172,
+    "timeWeek": 319,
+    "timeMonth": 280,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2025-12-28": 6,
       "2025-12-18": 9,
@@ -1654,10 +1655,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 87,
-    "timeWeek": 194,
-    "timeMonth": 180,
-    "timeYear": 160,
+    "timeDay": 77,
+    "timeWeek": 186,
+    "timeMonth": 178,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -1666,18 +1667,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/163music.wang-admin.repl.co.ico",
     "slug": "wyyapi",
     "status": "down",
-    "uptime": "24.42%",
+    "uptime": "24.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 511,
+    "time": 532,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-26": 159,
+      "2026-03-27": 161,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -2040,8 +2042,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   },
   {
@@ -2050,7 +2051,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/time-counter.wsee.eu.org.ico",
     "slug": "time-counter",
     "status": "down",
-    "uptime": "24.44%",
+    "uptime": "24.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -2061,7 +2062,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-26": 159,
+      "2026-03-27": 161,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -2424,8 +2426,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   },
   {
@@ -2440,9 +2441,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 88,
-    "timeDay": 49,
-    "timeWeek": 99,
-    "timeMonth": 117,
+    "timeDay": 32,
+    "timeWeek": 83,
+    "timeMonth": 116,
     "timeYear": 93,
     "dailyMinutesDown": {}
   }
